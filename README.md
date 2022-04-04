@@ -1,3 +1,7 @@
+# Task 4
+
+![task4](https://github.com/cesetas/starter--near-sdk-as/blob/main/Ekran%20Resmi%202022-04-04%2015.25.26.png)
+
 # `near-sdk-as` Starter Kit
 
 This is a good project to use as a starting point for your AssemblyScript project.
